@@ -1,1 +1,1 @@
-Hi Everyone, what`s you time
+This, is my dots file nixos or hyprland
